@@ -4,8 +4,15 @@
         <description><![CDATA[Bolom Tiku Tours]]></description>
         <link>https://thegrid.ai/bolom-tiku-tours/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jul 2016 23:42:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2016 00:14:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bolom-tiku-tours/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/88d77781-a688-4152-af90-8a54d0092efb.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/88d77781-a688-4152-af90-8a54d0092efb.jpg</link>
+            <guid isPermaLink="false">dc266e6f-893f-4763-9c04-0daac072e827</guid>
+            <pubDate>Thu, 07 Jul 2016 00:14:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/467ee7d1-7209-499c-83e7-39966a7e98aa.jpg">]]></description>
@@ -19,13 +26,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/d889223e-79bb-4582-9524-1544a0e63710.jpg</link>
             <guid isPermaLink="false">e254effb-e563-4a6c-a536-acad07a54d59</guid>
             <pubDate>Wed, 06 Jul 2016 18:03:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Best Hostel in Every Major European City]]></title>
-            <description><![CDATA[<article><h1>The Best Hostel in Every Major European City</h1><p>Staying at hostels was once a backpacker's rite of passage. After all, nothing builds character like fighting for power outlets,&hellip;</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/64c6b94d156dc880d5a3bde273b4b321f30df92e.jpg"></article>]]></description>
-            <link>https://www.thrillist.com/travel/nation/the-best-hostel-in-every-major-european-city-amsterdam-paris-berlin/travel</link>
-            <guid isPermaLink="false">ce3e4b75-3e1f-4fdc-8600-255e905a5296</guid>
-            <pubDate>Wed, 29 Jun 2016 23:23:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
